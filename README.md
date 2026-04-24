@@ -1,12 +1,13 @@
 # Automation Website Testing
 
 ##  Project Description
-This project is an automation testing framework for AutomationExerciseWebsite
-It is developed using Selenium WebDriver and follows a structured test automation approach.
+This project is an automation testing framework for the AutomationExercise website.
+It is developed using Selenium WebDriver and follows a Behavior Driven Development (BDD) approach using feature files.
 
 ##  Tech Stack
 - Java
 - Selenium WebDriver
+- Cucumber (BDD)
 - TestNG
 - Maven
 - IntelliJ IDEA
